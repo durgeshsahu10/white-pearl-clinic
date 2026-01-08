@@ -83,7 +83,7 @@ export const SERVICES: Service[] = [
     titleHi: 'डेंटल इम्प्लांट्स',
     description: 'Permanent solution for missing teeth.',
     icon: 'Anchor',
-    image: 'https://images.unsplash.com/photo-1609840114035-1c29046a8028?q=80&w=800&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1598256989800-fe5f95da9787?q=80&w=800&auto=format&fit=crop',
     experienceYears: 12,
     detailedDescription: 'Replace missing teeth with titanium implants that look and feel just like natural teeth. A lifelong solution for your smile that prevents bone loss and restores chewing ability.',
     faqs: [
@@ -197,7 +197,7 @@ export const SERVICES: Service[] = [
     titleHi: 'अकल दाढ़ निकालना',
     description: 'Expert surgical removal of wisdom teeth.',
     icon: 'Scissors',
-    image: 'https://images.unsplash.com/photo-1507646870377-502a3a78f216?q=80&w=800&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1598256989800-fe5f95da9787?q=80&w=800&auto=format&fit=crop',
     experienceYears: 15,
     detailedDescription: 'Surgical extraction of impacted wisdom teeth. We specialize in complex impactions ensuring minimal trauma and faster recovery.',
     faqs: [
