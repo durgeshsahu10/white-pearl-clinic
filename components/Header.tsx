@@ -32,7 +32,7 @@ const Header: React.FC<HeaderProps> = ({ language, setLanguage, onOpenAppointmen
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2 group">
             <div className="bg-primary/10 p-2 rounded-full group-hover:bg-primary/20 transition">
-              <img src="https://cdn-icons-png.flaticon.com/512/3004/3004458.png" alt="White Pearl Logo" className="w-8 h-8 md:w-10 md:h-10" />
+              <img src="/broken-teeth.png" alt="White Pearl Logo" className="w-8 h-8 md:w-10 md:h-10" />
             </div>
             <div>
               <h1 className="text-lg md:text-2xl font-bold text-primary leading-tight">White Pearl</h1>
