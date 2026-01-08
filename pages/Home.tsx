@@ -53,6 +53,28 @@ const Home: React.FC<HomeProps> = ({ language, onOpenAppointment, onOpenService 
         </div>
       </section>
 
+      {/* Statistics Section */}
+      <section className="relative z-20 -mt-16 px-4">
+        <div className="container mx-auto">
+          <div className="bg-slate-100 rounded-2xl shadow-xl p-8 md:p-10 max-w-6xl mx-auto border border-white/50">
+             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 divide-y md:divide-y-0 md:divide-x divide-gray-300">
+               <div className="text-center px-4">
+                 <p className="text-4xl md:text-5xl font-bold text-primary mb-2">15+</p>
+                 <p className="text-slate-600 font-semibold text-lg">Years Experience</p>
+               </div>
+               <div className="text-center px-4">
+                 <p className="text-4xl md:text-5xl font-bold text-primary mb-2">10,000+</p>
+                 <p className="text-slate-600 font-semibold text-lg">Happy Patients</p>
+               </div>
+               <div className="text-center px-4">
+                 <p className="text-4xl md:text-5xl font-bold text-primary mb-2">8</p>
+                 <p className="text-slate-600 font-semibold text-lg">Specialist Doctors</p>
+               </div>
+             </div>
+          </div>
+        </div>
+      </section>
+
       {/* Story Section */}
       <section className="py-20 bg-white">
         <div className="container mx-auto px-4">
